@@ -1,0 +1,6 @@
+15:27:32.176 [TestNG-tests-1] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0x5af33dc3fa2e11da
+15:27:32.343 [TestNG-tests-1] DEBUG test.LoginTest - browser lanched sucessfully
+15:27:40.797 [TestNG-tests-1] DEBUG test.LoginTest - application lanched sucessfully
+15:27:45.432 [TestNG-tests-1] DEBUG test.LoginTest - emailfield entred
+15:27:45.965 [TestNG-tests-1] DEBUG test.LoginTest - password entred
+15:27:57.246 [TestNG-tests-1] DEBUG test.LoginTest - login is sucessfull
