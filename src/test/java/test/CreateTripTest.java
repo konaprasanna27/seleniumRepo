@@ -57,7 +57,7 @@ public class CreateTripTest extends Base {
       Thread.sleep(2000);
      creatingtrip.selectMonth().sendKeys("27 jul,2022");
      Thread.sleep(3000);
-      System.out.println("this is creattriptest");
+      System.out.println("it was not finding web element of calender");
 	}
 
 	@BeforeMethod
