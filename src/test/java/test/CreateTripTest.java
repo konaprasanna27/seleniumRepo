@@ -32,6 +32,8 @@ public class CreateTripTest extends Base {
 		creatingtrip.modeOfTravel().click();
 		creatingtrip.enterFromField().sendKeys("del");
 		int i=0;
+		double d=1.0;
+		String name="Prasanna Kona";
 		while(i<4)
 		{
 			Thread.sleep(2000);
