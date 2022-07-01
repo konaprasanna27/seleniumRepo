@@ -34,6 +34,8 @@ public class CreateTripTest extends Base {
 		int i=0;
 		double d=1.0;
 		String name="Prasanna Kona";
+		float f=3.4f;
+
 		while(i<4)
 		{
 			Thread.sleep(2000);
