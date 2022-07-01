@@ -32,6 +32,7 @@ public class CreateTripTest extends Base {
 		creatingtrip.modeOfTravel().click();
 		creatingtrip.enterFromField().sendKeys("del");
 		int i=0;
+		float f=3.4f;
 		while(i<4)
 		{
 			Thread.sleep(2000);
